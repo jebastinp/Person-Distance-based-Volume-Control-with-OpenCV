@@ -1,4 +1,4 @@
-# Face-Distance-based-Sound-Volume-Control-with-OpenCV
+# Person-Distance-based-Sound-Volume-Control-with-OpenCV
 
 This project aims to use computer vision techniques provided by OpenCV to detect the depth or distance of a human face from a camera and adjust the volume of sound based on the detected distance. The system will enable an adaptive audio experience, increasing or decreasing the volume as the user moves closer to or farther away from the camera.
 
